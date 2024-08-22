@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6941154b-9672-4e34-b968-740f244aa433" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CS2_AutoAim_By_YOLOV8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/125/AK.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/125/M4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/125/UMP45.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/125/aug.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/125/m249.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/125/main.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/125/mp5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/125/p90.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/125/sg553.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/200/AK.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/200/AR.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/200/M4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/200/M4消音.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/200/UMP45.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/200/aug.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/200/common" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/200/m249.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/200/mac10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/200/main.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/200/mp5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/200/mp7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/200/mp9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/200/p90.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/200/pp野牛.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/200/sg553.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/200/内格夫.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/lua/ak47.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/lua/aug.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/lua/bizon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/lua/cz75.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/lua/famas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/lua/galil.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/lua/m249.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/lua/m4a1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/lua/m4a4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/lua/mac10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/lua/mp5sd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/lua/mp7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/lua/mp9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/lua/p90.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/lua/sg553.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PressureInfo/lua/ump45.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration/version4/build/gui/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration/version4/build/gui/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration/version4/build/gui/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration/version4/build/gui/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration/version4/build/gui/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration/version4/build/gui/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration/version4/build/gui/gui.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration/version4/build/gui/warn-gui.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration/version4/build/gui/xref-gui.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration/version4/dist/gui.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration/version4/gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration/version4/gui.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration/version4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration/version4/myIco.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/PUBG.onnx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/ssjj2.onnx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/sunxds_0.4.1.onnx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/sunxds_0.4.1.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/yolov8n.onnx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2l0HtwFDpRbcWH5ISUqWai0AToc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "D:/Users/user/PycharmProjects/CS2_AutoAim_By_YOLOV8",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "ssh.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\user\PycharmProjects\CS2_AutoAim_By_YOLOV8" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="CS2_AutoAim_By_YOLOV8" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6941154b-9672-4e34-b968-740f244aa433" name="Changes" comment="" />
+      <created>1724310292438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724310292438</updated>
+      <workItem from="1724310296315" duration="776000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
